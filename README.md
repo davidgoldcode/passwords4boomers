@@ -8,9 +8,8 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#you-may-also-like">Other resources</a> •
   <a href="#license">License</a>
 </p>
 
